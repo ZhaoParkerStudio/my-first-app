@@ -1,5 +1,7 @@
 # My First App
 
+**Live Demo:** [https://sprightly-taffy-21e2c3.netlify.app/](https://sprightly-taffy-21e2c3.netlify.app/)
+
 Welcome to your first web project! Here is a breakdown of what each file does:
 
 ## 1. Structure: `index.html`
